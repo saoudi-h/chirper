@@ -3,6 +3,8 @@
 Chirper is a microblogging platform inspired by Twitter, built using Laravel, React, and Inertia.
 Tutorial:  https://bootcamp.laravel.com/
 
+![Screenshot of Chirper](chirper_snapshot.jpg)
+
 ## Installation
 
 1. Clone the repository:
@@ -37,7 +39,7 @@ node run dev
 ```
 
 ## Usage
-To use Chirper, visit the URL at which the development server is running (e.g. http://localhost:8000). From there, you can create an account, post messages, edite or delete them, and follow other users.
+To use Chirper, visit the URL at which the development server is running (e.g. http://localhost:8000). From there, you can create an account, post messages, edite or delete them.
 
 ### Questions or Feedback
 I enjoyed following this tutorial and learning about Laravel and React with Inertia and invite you to do the same [here](https://bootcamp.laravel.com/).
